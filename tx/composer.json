@@ -1,0 +1,19 @@
+{
+    "name": "jstech/tx",
+    "type": "package",
+    "authors": [
+        {
+            "name": "forakinte",
+            "email": "forakinte@js-tech.tw"
+        }
+    ],
+    "minimum-stability": "dev-master",
+    "require": {
+        "php": ">=5.5.13"
+    },
+    "autoload": {
+        "classmap": [
+            "/"
+        ]
+    }
+}
